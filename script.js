@@ -11,6 +11,11 @@ const games = [
     image: "images/block-breaker.png",
     url: "https://block-breaker.crostine.com",
   },
+  {
+    name: "Rift Slayer",
+    image: "images/rift-slayer.png",
+    url: "https://rift-slayer.crostine.com",
+  },
 ];
 
 const grid = document.getElementById("games-grid");
