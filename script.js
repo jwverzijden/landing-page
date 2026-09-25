@@ -12,6 +12,11 @@ const games = [
     url: "https://block-breaker.crostine.com",
   },
   {
+    name: "Minion Commander",
+    image: "images/minion-commander.png",
+    url: "https://minion-commander.crostine.com",
+  },
+  {
     name: "Rift Slayer",
     image: "images/rift-slayer.png",
     url: "https://rift-slayer.crostine.com",
